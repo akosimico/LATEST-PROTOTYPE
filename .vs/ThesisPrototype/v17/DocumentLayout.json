@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|c:\\users\\jhay-ar barnedo 999\\source\\repos\\thesisprototype\\thesisprototype\\inventorymanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\inventorymanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\inventorymanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\inventorymanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_33UQUOB_SQLEXPRESS/ChefJoyDB/True/SqlTable/dbo.CJ_Inventory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_33UQUOB_SQLEXPRESS/ChefJoyDB/True/SqlTable/dbo.CJ_Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\salesoperationforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\salesoperationforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\salesoperationforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\salesoperationforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\datagridos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\datagridos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\authenthication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\authenthication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\inventorymanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\inventorymanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_33UQUOB_SQLEXPRESS/ChefJoyDB/True/SqlTable/dbo.CJ_Session.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_33UQUOB_SQLEXPRESS/ChefJoyDB/True/SqlTable/dbo.CJ_users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\switchforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\switchforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\salesreportforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\salesreportforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\thesisprototype\\salesreportforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1F0721-577F-4CBF-88DE-1FE52A5F7CCF}|ThesisPrototype\\ThesisPrototype.csproj|solutionrelative:thesisprototype\\salesreportforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\InventoryManagementForm.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\InventoryManagementForm.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\InventoryManagementForm.cs",
+              "RelativeToolTip": "ThesisPrototype\\InventoryManagementForm.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAwIkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:28:11.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\InventoryManagementForm.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\InventoryManagementForm.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\InventoryManagementForm.cs [Design]",
+              "RelativeToolTip": "ThesisPrototype\\InventoryManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:29:39.853Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.CJ_Inventory [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_33UQUOB_SQLEXPRESS/ChefJoyDB/True/SqlTable/dbo.CJ_Inventory.sql",
+              "ToolTip": "dbo.CJ_Inventory [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-12T08:23:52.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.CJ_Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_33UQUOB_SQLEXPRESS/ChefJoyDB/True/SqlTable/dbo.CJ_Products.sql",
+              "ToolTip": "dbo.CJ_Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-13T18:14:55.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\MainForm.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\MainForm.cs [Design]",
+              "RelativeToolTip": "ThesisPrototype\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:17:37.403Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\MainForm.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\MainForm.cs",
+              "RelativeToolTip": "ThesisPrototype\\MainForm.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAIA/wC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:20:47.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesOperationForms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\SalesOperationForms.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\SalesOperationForms.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\SalesOperationForms.cs [Design]",
+              "RelativeToolTip": "ThesisPrototype\\SalesOperationForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:54:44.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesOperationForms.cs",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\SalesOperationForms.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\SalesOperationForms.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\SalesOperationForms.cs",
+              "RelativeToolTip": "ThesisPrototype\\SalesOperationForms.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:36:36.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataGridOS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\DataGridOS.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\DataGridOS.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\DataGridOS.cs [Design]",
+              "RelativeToolTip": "ThesisPrototype\\DataGridOS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:54:40.324Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\App.config",
+              "RelativeDocumentMoniker": "ThesisPrototype\\App.config",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\App.config",
+              "RelativeToolTip": "ThesisPrototype\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-12T16:24:31.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Authenthication.cs",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\Authenthication.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\Authenthication.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\Authenthication.cs",
+              "RelativeToolTip": "ThesisPrototype\\Authenthication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:27:29.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryManagementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\InventoryManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\InventoryManagementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\InventoryManagementForm.Designer.cs",
+              "RelativeToolTip": "ThesisPrototype\\InventoryManagementForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:29:27.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.CJ_users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_33UQUOB_SQLEXPRESS/ChefJoyDB/True/SqlTable/dbo.CJ_users.sql",
+              "ToolTip": "dbo.CJ_users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-12T09:40:07.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.CJ_Session [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_33UQUOB_SQLEXPRESS/ChefJoyDB/True/SqlTable/dbo.CJ_Session.sql",
+              "ToolTip": "dbo.CJ_Session [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-12T09:39:47.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\LoginForm.cs",
+              "RelativeToolTip": "ThesisPrototype\\LoginForm.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAApwDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:15:03.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\LoginForm.cs [Design]",
+              "RelativeToolTip": "ThesisPrototype\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:37:35.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\Home.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\Home.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\Home.cs [Design]",
+              "RelativeToolTip": "ThesisPrototype\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T05:33:45.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SwitchForms.cs",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\SwitchForms.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\SwitchForms.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\SwitchForms.cs",
+              "RelativeToolTip": "ThesisPrototype\\SwitchForms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T05:31:27.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SalesReportForms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\SalesReportForms.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\SalesReportForms.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\SalesReportForms.cs [Design]",
+              "RelativeToolTip": "ThesisPrototype\\SalesReportForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:20:48.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SalesReportForms.cs",
+              "DocumentMoniker": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\SalesReportForms.cs",
+              "RelativeDocumentMoniker": "ThesisPrototype\\SalesReportForms.cs",
+              "ToolTip": "C:\\Users\\Jhay-Ar Barnedo 999\\source\\repos\\ThesisPrototype\\ThesisPrototype\\SalesReportForms.cs",
+              "RelativeToolTip": "ThesisPrototype\\SalesReportForms.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIAwwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:35:38.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
